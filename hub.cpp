@@ -21,7 +21,6 @@
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-/*test commit from VS code*/
 #include <Arduino.h>
 #include "USBHost_t36.h"  // Read this header first for key info
 
